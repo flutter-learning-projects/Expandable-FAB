@@ -19,6 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 [Create an expandable FAB](https://docs.flutter.dev/cookbook/effects/expandable-fab#:~:text=A%20Floating%20Action%20Button%20)
 
 ## Custom code output
-![alt text](https://github.com/livin-bad/Expandable-FAB/blob/master/doc/1649316781176.JPEG)
-![alt text](https://github.com/livin-bad/Expandable-FAB/blob/master/doc/1649316780904.JPEG)
-![alt text](https://github.com/livin-bad/Expandable-FAB/blob/master/doc/1649316781176.JPEG)
+![alt text](https://github.com/livin-bad/Expandable-FAB/blob/master/doc/ExpandableFAB.gif)
+
+
