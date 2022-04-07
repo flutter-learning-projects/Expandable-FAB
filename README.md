@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Flutter official site
+[Create an expandable FAB](https://docs.flutter.dev/cookbook/effects/expandable-fab#:~:text=A%20Floating%20Action%20Button%20)
+
+## Custom code output
+![alt text](https://github.com/livin-bad/Expandable-FAB/blob/master/doc/1649316781176.JPEG)
+![alt text](https://github.com/livin-bad/Expandable-FAB/blob/master/doc/1649316780904.JPEG)
+![alt text](https://github.com/livin-bad/Expandable-FAB/blob/master/doc/1649316781176.JPEG)
